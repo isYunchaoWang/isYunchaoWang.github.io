@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "ch-CN"
-title                    : "Yunchao Wang / Site Title"
+title                    : "Yunchao Wang / ZJUTVIS Lab"
 title_separator          : "-"
 name                     : &name "Yunchao Wang"
 description              : &description "PH.D. at Zhejiang University of Technology, an explorer in the field of visual analytics."
