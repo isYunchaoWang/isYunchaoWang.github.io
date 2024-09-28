@@ -12,7 +12,7 @@ title                    : "Yunchao Wang / ZJUTVIS Lab"
 title_separator          : "-"
 name                     : &name "Yunchao Wang"
 description              : &description "PH.D. at Zhejiang University of Technology, an explorer in the field of visual analytics."
-url                      : https://isyunchaowang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://isYunchaoWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isYunchaoWang/isYunchaoWang.github.io"
 
