@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yunchao Wang"
+title: "Welcome to Yunchao Wang's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
