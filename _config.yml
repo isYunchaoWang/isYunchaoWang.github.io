@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "ch-CN"
 title                    : "Welcome to Yunchao Wang's homepage!"
-title_separator          : "-"
+# title_separator          : "-"
 name                     : &name "Yunchao Wang"
 description              : &description "PH.D. at Zhejiang University of Technology, an explorer in the field of visual analytics."
 url                      : https://isYunchaoWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
