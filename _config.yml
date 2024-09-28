@@ -21,7 +21,7 @@ repository               : "isYunchaoWang/isYunchaoWang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpeg"
+  avatar           : "profile.jpeg"
   name             : "Yunchao Wang (王云超)"
   pronouns         : "he/him"  
   bio              : "PH.D. at Zhejiang University of Technology, an explorer in the field of visual analytics."
