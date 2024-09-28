@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+👏 Welcome to my homepage! My name is Yunchao Wang, and I am currently pursuing a Ph.D. in Computer Science and Technology at Zhejiang University of Technology. I joined the Data Visualization Group [(ZJUTVIS)](https://zjutvis.org/) at ZJUT in 2020, under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) and [Prof. Guodao Sun](https://godoorsun.org/). My research primarily focuses on visual analytics and human-computer interaction within the realm of natural language processing, utilizing large language models. This includes both interactive text analysis and interactive text generation. 
+📧 If you are interested in my work or have any feedback, please feel free to contact me!
 
 A data-driven personal website
 ======
