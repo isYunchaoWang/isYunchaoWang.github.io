@@ -31,7 +31,7 @@ Education
 Professional Service
 ======
 * **Conf. Reviewers**
-  -  * ChinaVis [2018](https://chinavis.org/2018/), [2020](https://chinavis.org/2020/), [2021](https://chinavis.org/2021/), [2022](https://chinavis.org/2022/), [2023](https://chinavis.org/2023/), [2024](https://chinavis.org/2024/)
+  -  **ChinaVis** [2018](https://chinavis.org/2018/), [2020](https://chinavis.org/2020/), [2021](https://chinavis.org/2021/), [2022](https://chinavis.org/2022/), [2023](https://chinavis.org/2023/), [2024](https://chinavis.org/2024/)
 
 
 
