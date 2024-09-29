@@ -12,7 +12,7 @@ If you are interested in my work or have any feedback, please feel free to conta
 
 Selected Publications
 ======
-* $E^2$Storyline: Visualizing the Relationship with Triplet Entities and Event Discovery
+* $E^2Storyline$: Visualizing the Relationship with Triplet Entities and Event Discovery
   > Wang Y, Sun G, Zhu Z, et al. E2 storyline: visualizing the relationship with triplet entities and event discovery[J]. ACM Transactions on Intelligent Systems and Technology, 2024, 15(1): 1-26.
 * AFExplorer: Visual analysis and interactive selection of audio features
   > Wang L, Sun G, Wang Y, et al. AFExplorer: Visual analysis and interactive selection of audio features[J]. Visual Informatics, 2022, 6(1): 47-55.
