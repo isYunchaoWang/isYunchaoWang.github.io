@@ -30,11 +30,11 @@ Education
 
 Professional Service
 ======
-Journal Reviewers
-------
+* **Journal Reviewers**
+  > 
 
-Conf. Reviewers
-------
+* **Conf. Reviewers**
+  > 
 
 
 
