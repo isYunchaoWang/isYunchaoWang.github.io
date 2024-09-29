@@ -17,9 +17,9 @@ Selected Publications
 
 Education
 ======
-* 2020 ~ Present, Computer Science and Technology, College of Computer Science and Technology (College of Software), Zhejiang University of Technology
-* 2017 ~ 2020, Control Science and Engineering, College of Information Engineering, Zhejiang University of Technology
-* 2012 ~ 2016, Electronic Science and Technology, College of Information Engineering, Zhejiang University of Technology
+* 2020 to present, pursuing a Ph.D. in Computer Science and Technology, College of Computer Science and Technology (College of Software), Zhejiang University of Technology
+* 2017 ~ 2020, pursued a Master's degree in Control Science and Engineering, College of Information Engineering, Zhejiang University of Technology
+* 2012 ~ 2016, pursued a Bachelor's degree in Electronic Science and Technology, College of Information Engineering, Zhejiang University of Technology
 
 Professional Service
 ======
