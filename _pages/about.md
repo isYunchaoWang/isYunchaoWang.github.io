@@ -13,13 +13,13 @@ If you are interested in my work or have any feedback, please feel free to conta
 Selected Publications
 ======
 * **E2Storyline: Visualizing the Relationship with Triplet Entities and Event Discovery**
-  > Wang Y, Sun G, Zhu Z, et al. E2 storyline: visualizing the relationship with triplet entities and event discovery[J]. ACM Transactions on Intelligent Systems and Technology, 2024, 15(1): 1-26.
+  > **Wang Y**, Sun G, Zhu Z, et al. E2 storyline: visualizing the relationship with triplet entities and event discovery[J]. ACM Transactions on Intelligent Systems and Technology, 2024, 15(1): 1-26.
 * **AFExplorer: Visual analysis and interactive selection of audio features**
-  > Wang L, Sun G, Wang Y, et al. AFExplorer: Visual analysis and interactive selection of audio features[J]. Visual Informatics, 2022, 6(1): 47-55.
+  > Wang L, Sun G, **Wang Y**, et al. AFExplorer: Visual analysis and interactive selection of audio features[J]. Visual Informatics, 2022, 6(1): 47-55.
 * **C5: toward better conversation comprehension and contextual continuity for ChatGPT**
-  > Liang P, Ye D, Zhu Z, et al. C5: toward better conversation comprehension and contextual continuity for ChatGPT[J]. Journal of Visualization, 2024: 1-18.
+  > Liang P, ..., **Wang Y**, et al. C5: toward better conversation comprehension and contextual continuity for ChatGPT[J]. Journal of Visualization, 2024: 1-18.
 * **Visualization and visual analysis of multimedia data in manufacturing: A survey**
-  > Wang Y, Zhu Z, Wang L, et al. Visualization and visual analysis of multimedia data in manufacturing: A survey[J]. Visual Informatics, 2022, 6(4): 12-21.
+  > **Wang Y**, Zhu Z, Wang L, et al. Visualization and visual analysis of multimedia data in manufacturing: A survey[J]. Visual Informatics, 2022, 6(4): 12-21.
 
 
 Education
