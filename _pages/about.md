@@ -17,12 +17,9 @@ Selected Publications
 
 Education
 ======
-| Year Range   | Major                            | College                                         |
-|--------------|----------------------------------|------------------------------------------------|
-| 2020 ~       | Computer Science and Technology  | College of Computer Science and Technology (College of Software) |
-| 2017 ~ 2020  | Control Science and Engineering  | College of Information Engineering              |
-| 2012 ~ 2016  | Electronic Science and Technology| College of Information Engineering              |
-
+* 2020 ~ Present, Computer Science and Technology, College of Computer Science and Technology (College of Software), Zhejiang University of Technology
+* 2017 ~ 2020, Control Science and Engineering, College of Information Engineering, Zhejiang University of Technology
+* 2012 ~ 2016, Electronic Science and Technology, College of Information Engineering, Zhejiang University of Technology
 
 Professional Service
 ======
