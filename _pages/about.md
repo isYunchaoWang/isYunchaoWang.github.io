@@ -17,9 +17,11 @@ Selected Publications
 
 Education
 ======
-| 2020 ～ ｜ Computer Science and Technology ｜ College of Computer Science and Technology（College of Software)|
-| 2017 ~ 2020 | Control Science and Engineering ｜ College of Information Engineering|
-| 2012 ~ 2016 | Electronic Science and Technology | College of Information Engineering|
+| Year Range   | Major                            | College                                         |
+|--------------|----------------------------------|------------------------------------------------|
+| 2020 ~       | Computer Science and Technology  | College of Computer Science and Technology (College of Software) |
+| 2017 ~ 2020  | Control Science and Engineering  | College of Information Engineering              |
+| 2012 ~ 2016  | Electronic Science and Technology| College of Information Engineering              |
 
 
 Professional Service
