@@ -3,7 +3,7 @@ title: "E2Storyline: Visualizing the Relationship with Triplet Entities and Even
 collection: publications
 category: manuscripts
 permalink: /publication/E2Storyline
-excerpt: "<img src='/images/E2Storyline.png'><br/><div style='text-align: justify; text-justify: inter-word;'>In this paper, we propose an effective multi-objective optimization (MOO) algorithm. The algorithm takes into account different optimization objectives, both global and local. For the global, we need to minimize line crossings and oscillations as much as possible. For the local, we need to make the related entities as close to each other as possible. The modeling is performed by determining the objective function and constraints to optimize the layout of the storyline visualization.</div>"
+excerpt: "<img src='/images/E2Storyline.png'><br/>In this paper, we propose an effective multi-objective optimization (MOO) algorithm. The algorithm takes into account different optimization objectives, both global and local. For the global, we need to minimize line crossings and oscillations as much as possible. For the local, we need to make the related entities as close to each other as possible. The modeling is performed by determining the objective function and constraints to optimize the layout of the storyline visualization."
 date: 2024-01-16
 venue: 'ACM Transactions on Intelligent Systems and Technology'
 paperurl: 'https://isYunchaoWang.github.io/files/E2Storyline.pdf'
