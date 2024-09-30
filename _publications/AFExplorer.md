@@ -3,7 +3,7 @@ title: "AFExplorer: Visual analysis and interactive selection of audio features"
 collection: publications
 category: manuscripts
 permalink: /publication/AFExplorer
-excerpt: 'In this paper, we design a visual analysis system, namely AFExplorer, to assist data scientists in extracting audio features and selecting potential feature combinations. AFExplorer integrates four main views to present detailed distribution and relevance of the audio features, which helps users observe the impact of features visually in the feature selection.<img src='/images/AFExplorer.png'>'
+excerpt: "In this paper, we design a visual analysis system, namely AFExplorer, to assist data scientists in extracting audio features and selecting potential feature combinations. AFExplorer integrates four main views to present detailed distribution and relevance of the audio features, which helps users observe the impact of features visually in the feature selection.<br/><img src='/images/AFExplorer.png'>"
 date: 2022-03-04
 venue: 'Visual Informatics'
 paperurl: 'http://isYunchaoWang.github.io/files/AFExplorer.pdf'
