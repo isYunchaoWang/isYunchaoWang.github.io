@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "AFExplorer: Visual analysis and interactive selection of audio features"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2

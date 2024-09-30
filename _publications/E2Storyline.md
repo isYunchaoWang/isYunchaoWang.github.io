@@ -2,7 +2,7 @@
 title: "E2Storyline: Visualizing the Relationship with Triplet Entities and Event Discovery"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/E2Storyline
 excerpt: 'In this paper, we propose an effective multi-objective optimization (MOO) algorithm. The algorithm takes into account different optimization objectives, both global and local. For the global, we need to minimize line crossings and oscillations as much as possible. For the local, we need to make the related entities as close to each other as possible. The modeling is performed by determining the objective function and constraints to optimize the layout of the storyline visualization.'
 date: 2024-01-16
 venue: 'ACM Transactions on Intelligent Systems and Technology'
