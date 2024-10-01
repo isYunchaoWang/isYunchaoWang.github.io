@@ -14,10 +14,12 @@ Selected Publications
 ======
 * **E2Storyline: Visualizing the Relationship with Triplet Entities and Event Discovery**
   > **Wang Y**, Sun G, Zhu Z, et al. E2 storyline: visualizing the relationship with triplet entities and event discovery[J]. ACM Transactions on Intelligent Systems and Technology, 2024, 15(1): 1-26.
+* **LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video**
+  > Li T, ..., **Wang Y**, et al. LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video[J]. IEEE Transactions on Human-Machine Systems, 2024.
+* **Application of mathematical optimization in data visualization and visual analytics: a survey**
+  > Sun G, ..., **Wang Y**, et al. Application of mathematical optimization in data visualization and visual analytics: a survey[J]. IEEE Transactions on Big Data, 2023, 9(4): 1018-1037.
 * **AFExplorer: Visual analysis and interactive selection of audio features**
   > Wang L, Sun G, **Wang Y**, et al. AFExplorer: Visual analysis and interactive selection of audio features[J]. Visual Informatics, 2022, 6(1): 47-55.
-* **LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video**
-  > Li T, ..., **Wang Y** et al. LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video[J]. IEEE Transactions on Human-Machine Systems, 2024.
 * **Visualization and visual analysis of multimedia data in manufacturing: A survey**
   > **Wang Y**, Zhu Z, Wang L, et al. Visualization and visual analysis of multimedia data in manufacturing: A survey[J]. Visual Informatics, 2022, 6(4): 12-21.
 
