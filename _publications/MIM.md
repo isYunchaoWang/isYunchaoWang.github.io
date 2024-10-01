@@ -1,5 +1,5 @@
 ---
-title: "Visualizationandvisualanalysisofmultimediadatainmanufacturing: Asurvey"
+title: "Visualization and visual analysis of multimedia data in manufacturing: Asurvey"
 collection: publications
 category: manuscripts
 permalink: /publication/MIM
