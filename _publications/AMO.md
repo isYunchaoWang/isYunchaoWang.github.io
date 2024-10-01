@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/AMO
 excerpt: "<img src='/images/AMO.png'><br/>In this article, we review and classify the existing techniques for advanced mathematical optimization in the fields of data visualization and visual analytics. The classification is conducted based on a classical visualization pipeline, including data enhancement and transformation, representation and rendering, as well as interactive exploration and analysis. We additionally provide an online exploration demo, which could enable users to interactively find relevant articles."
-date: 2022-03-04
+date: 2023-03-27
 venue: 'IEEE Transactions on Big Data'
 paperurl: 'http://isYunchaoWang.github.io/files/AMO.pdf'
 # citation: 'Wang L, Sun G, Wang Y, et al. AFExplorer: Visual analysis and interactive selection of audio features[J]. <i>Visual Informatics<i>, 2022, 6(1): 47-55.'
