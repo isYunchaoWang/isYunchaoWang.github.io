@@ -10,6 +10,8 @@ location: "Xining, China"
 
 [More information here](https://chinavis.org/2022/index.html)
 
+
+
 Give a paper presentation at the 9th China Visualization and Visual Analysis Conference (China Vis 2022).  
 
 <iframe src="https://isYunchaoWang.github.io/files/ChinaVis2022PPT.pdf" width="960" height="569" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
