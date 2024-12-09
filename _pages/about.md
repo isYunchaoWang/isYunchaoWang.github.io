@@ -82,25 +82,26 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-- [Investigating Human-Computer Interaction and Visual Comprehension in Text Generation Process of Natural Language Generation Models](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://arxiv.org/pdf/2410.08723), Yunchao Wang, Zihang Fu, Chaoqing Xu, Guodao Sun, Ronghua Liang, arXiv
+- [Investigating Human-Computer Interaction and Visual Comprehension in Text Generation Process of Natural Language Generation Models](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://arxiv.org/pdf/2410.08723), **Yunchao Wang**, Zihang Fu, Chaoqing Xu, Guodao Sun, Ronghua Liang, arXiv
 
-- [LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video](https://github.com), A, B, C, **CVPR 2020**
+- [LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10570041), Tong Li, Guodao Sun, Baofeng Chang, **Yunchao Wang**, Qi Jiang, Yuanzhong Ying, Li Jiang, Haixia Wang, Ronghua Liang, **THMS**
 
-- [C5: toward better conversation comprehension and contextual continuity for ChatGPT](https://github.com), A, B, C, **CVPR 2020**
+- [C5: toward better conversation comprehension and contextual continuity for ChatGPT](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://arxiv.org/pdf/2308.05567), Pan Liang, Danwei Ye, Zihao Zhu, **Yunchao Wang**, Wang Xia, Ronghua Liang, Guodao Sun, **ChinaVis**
 
-- [AFExplorer: Visual analysis and interactive selection of audio features](https://github.com), A, B, C, **CVPR 2020**
+- [AFExplorer: Visual analysis and interactive selection of audio features](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://pdf.sciencedirectassets.com/315710/1-s2.0-S2468502X22X00028/1-s2.0-S2468502X22000110/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIH87bogHrWh%2FZSoQwO84RshJz8so3EGXlm4hi2kIQKRsAiBD2Z9qfVchmLznTZ5i8%2FGMBPT2p4jumGqvJhh3Dwdt0SqzBQh4EAUaDDA1OTAwMzU0Njg2NSIMFjPxqcH%2BTy4e7A%2F%2BKpAFQyX%2B1aXWl3nrOPEUXVHj5EhWlsIk7C7xHm63V8w%2BmlYbjqJL1T59fPba70KSdW2e0Kn4AfNa39QtDpw5Rn6b%2FzzRBSV1wAuQeuMyu7tPgv9ge6W%2FYYAScAGto%2FX3pDMvRBNxhARI8OV0ibwe9KxxqUDLkj4fQiGn6pfKKHBqSqgIHW4TThedrztOkgskDnU2MKT07dV8zI2EgUO0qaORmS%2BFdZMDTo%2BlIUqIvTUFLSJGpV4B8Odl4EEzHJPQxNu1970Z0Swci9W%2B%2B6KLyhY7e3haTf3gXTiWPj01Dhxxk3cqbopytEnFIbTARloNWcO0Yb6wovI0MrF5pRhu3I%2FreK8Ncla9iiAIJmb0m96h6GM1LWLe5nd8Uq5mGSfU8Ivqyn0yPYM%2FwDPdK2bugz3JQoolwZcBf1BdqjVsxg7%2FVTLy75lJ1fsocEq6yfmG12hy%2F7x%2BgpnGOXI0bKUzH4TCT5Gye3qbsf60siZvrBIiBKswKxO4aRpGH%2FWp1oTn6mExt%2FlVtYFVFM4orBwe1BdirtmygFIInoi33%2BVReR42h9Xdm2UDaqmSSUqeCOSkovAJt8Wl%2FMybpepabYy0I6uIAjaGihHh2dXkDOgubSX4mLrN8w7BP8m0ghsyWEWANUp6mkC2k%2FO5nI4tMcp0Mfn7NtnKMt3E77cq86mOJYoGZhpc%2FI66%2BEnRRso5T44SwFUEDfRGooP2nCXeS8cl7xvszJZ80T8aRGtQ2ANRtddwMHSokfNBrzKcECbkRxPaTfOunmpJTXXzev0mNC7e0rqeo8RQwAedM0ByWP3%2FJf%2FVG5ZnEV8rvayQXanA2xw7WpljS0c7JFXvkscwFIqBc86ckkKrjZRE41GmPujgKtJYeHIwrPvbugY6sgH4c42Sd%2FRCt4LfIdd%2F5oLM%2BpXHiCsPvfcmvJ1Okx%2F3UJlmqSWLhLpQi7SUxYhYCpCFSNykCJ86MnVC%2BrZtjPwIq3p4MXBqnYI3NPYUSxFofrao2Hv%2BG6tSARhd1USfTxGlPWuSounp2lSjcaDwDiNnIR2MJOIw8iDYj4t19uOjT%2B%2FjQVJlxO1%2FMOkOUwOtu5sCI7WcJplM7DvkPKW4jblWegGzPMnhll6llTKQ6AAqjXyd&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241209T150344Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQ2DTA5E6%2F20241209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d0d222f3c1cc17d827279fe73d0e7714969808409c490a42cd82cbd2644ba8a1&hash=98c09d9aca5014eaee8471354e4fd906d19db40b294525cbb190df7412308fd2&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2468502X22000110&tid=spdf-8a820f5f-9d56-45a7-b994-5e1fd4a3b448&sid=a89ce3124ce8b648d6980374a05cad28de7dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=050e5e0100570a575051&rr=8ef5e232c840dd53&cc=cn&kca=eyJrZXkiOiJUQVpOOFlJVGRvVWYyU044N045MnZsVHZVNWFtL3U3VGhja082eSsreWRFRm1IU2hHeG5IdDNQK2tDTlllTTBMNjZRa3BzaDJXZ2ZiRU5TSGdtQkthN2lrRVZ1c2lGVXh1MGZDMmN5T2EwSmE2cUR1RDQ2Q1BSL2RQMWFubmc2NXhsMGV4RWJJNStTNzhvdmJYYXhYSGlpMnlCaHB4T2NRMUliZTZETURVRXUzTmFzWjNBPT0iLCJpdiI6ImQ3ODlhY2E0ZjVlOTE0MmE5OTViYTI5MjI3Mzk5YTc0In0=_1733756633148), Lei Wang, Guodao Sun, **Yunchao Wang**, Ji Ma, Xiaomin Zhao, Ronghua Liang, **VI**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - now*, Zhejiang University of Technology, Ph.D. in Computer Science and Technology
+- *2017.09 ~ 2020.06*, pursued a M.S. degree in Control Science and Engineering, College of Information Engineering, Zhejiang University of Technology.
+- *2012.09 ~ 2016.06*, pursued a B.S degree in Electronic Science and Technology, College of Information Engineering, Zhejiang University of Technology.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.07*, Give a paper presentation at the 9th China Visualization and Visual Analysis Conference (China Vis 2022)  \| [\[video\]](images/ChinaVis2022.mp4)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
