@@ -55,7 +55,7 @@ Welcome to my homepage! My name is Yunchao Wang, and I am currently pursuing a P
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TIST</div><img src='images/skelemap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOV</div><img src='images/skelemap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [skelemap: skeleton-based boundary growth for efficient and automated cartogram generation](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://link.springer.com/content/pdf/10.1007/s12650-024-01031-8.pdf)
