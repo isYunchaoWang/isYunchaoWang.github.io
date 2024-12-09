@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TIST</div><img src='images/E2Storyline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[E^{2}Storyline: Visualizing the Relationship with Triplet Entities and Event Discovery](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://zjutvis-1253917436.cos-website.ap-shanghai.myqcloud.com/papers/pdf/wang2024E2Storyline.pdf)
+[E^2Storyline: Visualizing the Relationship with Triplet Entities and Event Discovery](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://zjutvis-1253917436.cos-website.ap-shanghai.myqcloud.com/papers/pdf/wang2024E2Storyline.pdf)
 
 **Yunchao Wang**, Guodao Sun, Zihao Zhu, Tong Li, Ling Chen, and Ronghua Liang
 
@@ -82,7 +82,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Investigating Human-Computer Interaction and Visual Comprehension in Text Generation Process of Natural Language Generation Models](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://arxiv.org/pdf/2410.08723), Yunchao Wang, Zihang Fu, Chaoqing Xu, Guodao Sun, Ronghua Liang, arXiv
+
+- [LANDER: Visual Analysis of Activity and Uncertainty in Surveillance Video](https://github.com), A, B, C, **CVPR 2020**
+
+- [C5: toward better conversation comprehension and contextual continuity for ChatGPT](https://github.com), A, B, C, **CVPR 2020**
+
+- [AFExplorer: Visual analysis and interactive selection of audio features](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
