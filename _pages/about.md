@@ -37,7 +37,7 @@ Welcome to my homepage! My name is Yunchao Wang, and I am currently pursuing a P
 **Yunchao Wang**, Guodao Sun, Zihao Zhu, Tong Li, Ling Chen, and Ronghua Liang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JnLvU9AAAAAJ&citation_for_view=JnLvU9AAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='JnLvU9AAAAAJ:Tyk-4Ss8FVUC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- -  Introduction -->
 </div>
 </div>
 
@@ -50,7 +50,7 @@ Welcome to my homepage! My name is Yunchao Wang, and I am currently pursuing a P
 **Yunchao Wang**, Guodao Sun, Zihao Zhu, Tong Li, Ronghua Liang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JnLvU9AAAAAJ&citation_for_view=JnLvU9AAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='JnLvU9AAAAAJ:_FxGoFyzp5QC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- -  Introduction -->
 </div>
 </div>
 
@@ -63,7 +63,7 @@ Welcome to my homepage! My name is Yunchao Wang, and I am currently pursuing a P
 **Yunchao Wang**, Zihao Zhu, Lei Wang, Guodao Sun, Ronghua Liang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JnLvU9AAAAAJ&citation_for_view=JnLvU9AAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='JnLvU9AAAAAJ:qjMakFHDy7sC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- -  Introduction --> 
 </div>
 </div>
 
